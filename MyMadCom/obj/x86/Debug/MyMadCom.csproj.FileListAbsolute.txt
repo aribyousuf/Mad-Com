@@ -45,3 +45,12 @@ D:\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMad
 D:\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.csproj.GenerateResource.Cache
 U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.exe
 U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.pdb
+U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\bin\Debug\MyMadCom.exe
+U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\bin\Debug\MyMadCom.pdb
+U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.csprojResolveAssemblyReference.cache
+U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.Form1.resources
+U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.Form2.resources
+U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.Form3.resources
+U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.Form4.resources
+U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.Properties.Resources.resources
+U:\Personal\University\4rth Semester\Data Structure\MyMadCom\MyMadCom\obj\x86\Debug\MyMadCom.csproj.GenerateResource.Cache
